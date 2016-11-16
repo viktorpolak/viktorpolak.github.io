@@ -1,0 +1,174 @@
+<!doctype html>
+<html>
+	<Head>
+		<titel> En Bra Titel </titel>
+	</head>
+	<body>
+		<h1> Hej </h1>
+		<h2> Hej </h2>
+		<h3> Hej </h3>
+		<h4> Hej </h4>
+		<h5> Hej </h5>
+		<h6> Hej </h6>
+	<p>
+		test test test
+	</p>
+	<sub> 
+		test test test
+	</sub> 
+	<p> 
+		<i> kjfdskjfksdfjsldfjskdlfksdjfkskdfjsdlk </i>
+		<br>
+		<b> asodkoasdkpasdokasodka </b>
+		<br>
+		<strike> ajsdajdjasd </strike>
+		<u> understruken </u>
+		<br>
+		<sup> jasdasda </sup> 
+		<br>
+		<sub> jasdasda </sub>
+		<br> 
+		<kbd>gasdasdasd</kbd>
+		<br>
+		<tt>gasdasdasd</tt>
+	</p>
+	<h4> Ny Rubrik </h4>
+	<p>
+		<i> ajisdoajsdoaisjdaosidjasjdasdkjalskdjaslkdjaklsdjaskldjalkdjalskdjfisdjfis
+		<br>
+		aosjdasidjiasdjasldijasldkjasldijasidjias
+		</i>
+	</p>	
+	<p>
+		<h3> Rödluvan och vargen </h3>
+	</p>	
+	<figure>
+		<img src="rödluvan.jpg" alt="rödluvan" width="250" height="349">
+		<figcation> Rödluvan </figcaption>
+	</figure>
+	<p>
+		Det var en gång en liten flicka som kallades Rödluvan. Hon hade en röd luva som hon fått av sin mormor. 
+		<br>
+		Rödluvan bodde med sin mamma i en liten stuga i en stor 
+		<br>
+		skog. Hennes snälla gamla mormor bodde i andra änden av skogen.
+	</p>
+	<p>
+		En dag fick Rödluvan höra att hennes gamla mormor hade blivit sjuk. Då ville hon gå
+		<br>
+		och hälsa på henne. Rödluvans mamma packade en korg med vin och kakor.
+		<br>
+		- Var nu rädd om dig och gå raka vägen till mormor, sa mamman.
+		<br>
+		Rödluvan tyckte det var härligt att gå i skogen. Solen lyste och hon kände sig glad.
+		<br>
+		Plötsligt mötte hon en varg!
+		<br>
+		- Vart ska du gå? frågade vargen.
+		<br>
+		- Jag ska hälsa på min sjuka mormor, svarade Rödluvan.
+		<br>
+		- Ska du inte plocka blommor och ta med till henne? frågade vargen.
+		<br>
+		- Jo, det ska jag göra, svarade Rödluvan.
+		<br>
+		Rödluvan gick längre och längre in i skogen.
+		<br>
+		När hon kom fram till en äng och såg alla vackra blommor, stannade hon. Hon
+		<br>
+		plockade en stor fin blombukett.
+		<br>
+		Efter en stund kände sig Rödluvan trött och satte sig för att vila.
+	</p>
+	<p>
+		Under tiden letade sig vargen fram till mormors stuga. Han hittade den under de tre
+		<br>
+		ekarna. Vargen smög sig fram till dörren och knackade på.
+		<br>
+		- Vem är det? ropade mormor från sin säng.
+		<br>
+		- Det är bara jag, Rödluvan, som kommer med kakor och vin, svarade vargen.
+		<br>
+		- Välkommen min lilla flicka. Dörren är öppen! ropade mormor.
+		<br>
+		Då sprang vargen raka vägen fram till sängen där mormor låg och slukade henne i
+		<br>
+		ett nafs.
+		<br>
+		Nu var vargen mätt och belåten. Han kände sig mycket nöjd över att ha lurat
+		<br>
+		Rödluvans mormor.
+		<br>
+		- Kanske skulle jag kunna lura Rödluvan också? tänkte han för sig själv.
+		<br>
+		Vargen bestämde sig för att klä ut sig till mormor. Han tog på hennes kläder och satte
+		<br>
+		hennes nattmössa på huvudet.
+		<br>
+		Sedan la han sig i hennes säng och väntade på att Rödluvan skulle komma.
+		<br>
+		När Rödluvan hade plockat en stor bukett blommor sprang hon till mormors stuga.
+		<br>
+		Dörren var öppen, så hon gick in.
+		<br>
+		Hon gick till mormors säng och sa:
+		<br>
+		- Men mormor, vilka stora öron du har!
+		<br>
+		- Det är för att jag ska höra dig bättre.
+		<br>
+		- Men mormor, vilken stor mun du har!
+		<br>
+		- Det är för att jag bättre ska kunna äta upp dig! sa vargen och tog ett skutt ur
+		<br>
+		sängen.
+		<br>
+		Han slukade Rödluvan i ett nafs.
+		<br>
+		Så snart vargen hade slukat Rödluvan blev han mycket trött och la sig i mormors
+		<br>
+		säng.
+		<br>
+		Efter en stund snarkade han så hela huset skakade.
+	</p>
+	<figure>
+		<img src="rödluvan2.jpg" alt="rödluvan och vargen eller mormor" width="640" height="895">
+		<figcation>Rödluvan och Vargen</figcation>
+	</figure>
+	<p>
+		Just då kom en jägare förbi stugan.
+		<br>
+		- Det var förfärligt vad den gamla gumman snarkar. Det är bäst jag går in i stugan
+		<br>
+		och ser hur hon mår, tänkte jägaren.
+		<br>
+		Först tittade jägaren in genom fönstret men såg ingen.
+		<br>
+		Sedan gick han in i stugan och fram till sängen.
+		<br>
+		Där fick han se vargen som låg och sov.
+		<br>
+		När jägaren såg vargens tjocka mage förstod han vad som hade hänt. Just som han
+		<br>
+		skulle skjuta vargen kom han att tänka på att han kanske kunde rädda den gamla
+		<br>
+		gumman. Jägaren tog fram sin kniv och sprättade upp magen på den sovande
+		<br>
+		vargen.
+		<br>
+		Plötsligt fick han se den röda luvan lysa och ut hoppade Rödluvan.
+		<br>
+		Strax därefter kom också mormor ut. Hon var lite yr men lycklig. Båda var så glada
+		<br>
+		att de blivit räddade. De tackade jägaren.
+	</p>
+	<p>
+		Jägaren fyllde vargens mage med sten och sydde ihop honom. Sedan sprang vargen
+		<br>
+		till skogs och kom aldrig mer igen.
+	</p>
+	<figure>
+		<img src="http://www.discshop.se/img/rec_foton/hoodwinkaaaa.jpg" alt="rödluvan på en cykel>
+		<figcation> rödluvan som cyklar</figcaption>
+	</figure>
+</html>
