@@ -1,0 +1,157 @@
+@charset "utf-8";
+
+body{
+	font-size:12px;
+}
+#bibliotek{
+	background-image:url(Arnold231.jpg);
+	height:250px;
+	width:237px;
+	margin-left:9%;
+}
+#bibliotek:hover{
+	background-image:url(Arnold123.jpg);
+	height:250px;
+	width:186px;
+	margin-left:9%;
+}
+h1{
+	text-align:center;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:36px;
+	color:#900;
+}
+h1.bro{
+	text-align:left;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:50px;
+	color:#900;
+}
+
+a:link{
+	color:#630;
+}
+a:visited{
+	color:#630;
+}
+img{
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+#bakgrundsbildFP{
+	width:100%;
+	height:100%;
+	background-image:url(ASFP.jpg);
+	background-size:cover;
+	background-repeat:repeat;
+	position:absolute;
+}
+#bakgrundsbildAS{
+	width:100%;
+	height:100%;
+	background-image:url(ASOP.jpg);
+	background-size:cover;
+	background-repeat:repeat;
+	position:absolute;
+}
+#bakgrundsbildWODAS{
+	width:100%;
+	height:100%;
+	background-size:cover;
+	background-repeat:repeat;
+	position:absolute;
+	background-image:url(ASWOD.jpg);
+}
+#bakgrundsbildRC{
+	width:100%;
+	height:100%;
+	background-image:url(RCOP.jpg);
+	background-size:cover;
+	background-repeat:repeat;
+	position:absolute;
+}
+#bakgrundsbildWODRC{
+	width:100%;
+	height:100%;
+	background-image:url(RCWOD.jpg);
+	background-size:cover;
+	background-repeat:repeat;
+	position:absolute;
+}
+#bakgrundsbildKG{
+	width:100%;
+	height:100%;
+	background-image:url(KGOP.jpg);
+	background-size:cover;
+	background-repeat:repeat;
+	position:absolute;
+}
+#bakgrundsbildWODKG{
+	width:100%;
+	height:100%;
+	background-image:url(KGWOD.jpg);
+	background-size:cover;
+	background-repeat:repeat;
+	position:absolute;
+}
+#storbox{
+	width:90%;
+	height:90%;
+	position:absolute;
+	background-color:rgba(255,255,255,0.6);
+	margin-left:5%;
+	margin-top:2.5%;
+	padding:10 auto 10 auto;
+}
+header{
+	width:100%;
+	height:15%;
+	text-align:left;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:50px;
+	color:#900;
+	padding-top:25px;
+}
+article{
+	width:60%;
+	height:75%;
+	float:left;
+	font-size:16px;
+	color:#933;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+@media screen and (max-width: 980px) {
+
+#bakgrundsbildFP{
+
+	background-size:auto 100vh;
+	background-attachment:fixed;
+}
+}
+
+@media screen and (max-width: 650px) {
+}
+
+@media screen and (max-width: 480px) {
+}
+nav{
+	width:15%;
+	height:20%;
+	font-size:18px;
+	float:left;
+}
+aside{
+	width:15%;
+	height:75%;
+	float:right;
+	font-size:18px;
+}
+ul{
+	list-style:none;
+	text-align:left;
+	padding:0;
+	margin:0;
+/* CSS Document */
+
