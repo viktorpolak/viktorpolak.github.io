@@ -3,6 +3,14 @@
 body{
 	font-size:12px;
 }
+@media screen and (max-width: 980px) {
+}
+
+@media screen and (max-width: 650px) {
+}
+
+@media screen and (max-width: 480px) {
+}
 #bibliotek{
 	background-image:url(Arnold231.jpg);
 	height:250px;
@@ -121,20 +129,6 @@ article{
 	font-size:16px;
 	color:#933;
 	font-family:Tahoma, Geneva, sans-serif;
-}
-@media screen and (max-width: 980px) {
-
-#bakgrundsbildFP{
-
-	background-size:auto 100vh;
-	background-attachment:fixed;
-}
-}
-
-@media screen and (max-width: 650px) {
-}
-
-@media screen and (max-width: 480px) {
 }
 nav{
 	width:15%;
