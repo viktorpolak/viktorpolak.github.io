@@ -65,6 +65,7 @@ img{
 	background-size:cover;
 	background-repeat:repeat;
 	position:relative;
+	background-position:center;
 }
 #bakgrundsbildAS{
 	width:100%;
