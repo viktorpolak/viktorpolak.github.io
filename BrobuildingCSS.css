@@ -60,7 +60,7 @@ img{
 
 #bakgrundsbildFP{
 	width:100%;
-	height:100%;
+	height:auto;
 	background-image:url(ASFP.jpg);
 	background-size:cover;
 	background-repeat:repeat;
