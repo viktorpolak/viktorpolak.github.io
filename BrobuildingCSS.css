@@ -78,43 +78,48 @@ img{
 }
 #bakgrundsbildWODAS{
 	width:100%;
-	height:100%;
+	height:auto;
 	background-size:cover;
 	background-repeat:repeat;
 	position:absolute;
 	background-image:url(ASWOD.jpg);
+	background-position:center;
 }
 #bakgrundsbildRC{
 	width:100%;
-	height:100%;
+	height:auto;
 	background-image:url(RCOP.jpg);
 	background-size:cover;
 	background-repeat:repeat;
 	position:absolute;
+	background-position:center;
 }
 #bakgrundsbildWODRC{
 	width:100%;
-	height:100%;
+	height:auto;
 	background-image:url(RCWOD.jpg);
 	background-size:cover;
 	background-repeat:repeat;
 	position:absolute;
+	background-position:center;
 }
 #bakgrundsbildKG{
 	width:100%;
-	height:100%;
+	height:auto;
 	background-image:url(KGOP.jpg);
 	background-size:cover;
 	background-repeat:repeat;
 	position:absolute;
+	background-position:center;
 }
 #bakgrundsbildWODKG{
 	width:100%;
-	height:100%;
+	height:auto;
 	background-image:url(KGWOD.jpg);
 	background-size:cover;
 	background-repeat:repeat;
 	position:absolute;
+	background-position:center;
 }
 #storbox{
 	width:90%;
