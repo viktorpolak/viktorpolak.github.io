@@ -64,7 +64,7 @@ img{
 	background-image:url(ASFP.jpg);
 	background-size:cover;
 	background-repeat:repeat;
-	position:relative;
+	position:absolute;
 	background-position:center;
 }
 #bakgrundsbildAS{
