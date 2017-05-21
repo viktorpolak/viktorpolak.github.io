@@ -68,7 +68,7 @@ img{
 }
 #bakgrundsbildAS{
 	width:100%;
-	height:auto;
+	height:100%;
 	background-image:url(ASOP.jpg);
 	background-size:cover;
 	background-repeat:repeat;
@@ -76,7 +76,7 @@ img{
 }
 #bakgrundsbildWODAS{
 	width:100%;
-	height:auto;
+	height:100%;
 	background-size:cover;
 	background-repeat:repeat;
 	position:absolute;
@@ -84,7 +84,7 @@ img{
 }
 #bakgrundsbildRC{
 	width:100%;
-	height:auto;
+	height:100%;
 	background-image:url(RCOP.jpg);
 	background-size:cover;
 	background-repeat:repeat;
@@ -92,7 +92,7 @@ img{
 }
 #bakgrundsbildWODRC{
 	width:100%;
-	height:auto;
+	height:100%;
 	background-image:url(RCWOD.jpg);
 	background-size:cover;
 	background-repeat:repeat;
@@ -100,7 +100,7 @@ img{
 }
 #bakgrundsbildKG{
 	width:100%;
-	height:auto;
+	height:100%;
 	background-image:url(KGOP.jpg);
 	background-size:cover;
 	background-repeat:repeat;
@@ -108,7 +108,7 @@ img{
 }
 #bakgrundsbildWODKG{
 	width:100%;
-	height:auto;
+	height:100%;
 	background-image:url(KGWOD.jpg);
 	background-size:cover;
 	background-repeat:repeat;
