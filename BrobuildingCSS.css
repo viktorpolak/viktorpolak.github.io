@@ -59,12 +59,12 @@ img{
 }
 
 #bakgrundsbildFP{
-	width:auto;
+	width:100%;
 	height:auto;
 	background-image:url(ASFP.jpg);
 	background-size:cover;
 	background-repeat:repeat;
-	position:absolute;
+	position:relative;
 }
 #bakgrundsbildAS{
 	width:100%;
